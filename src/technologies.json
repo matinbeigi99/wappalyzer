@@ -3653,6 +3653,18 @@
       "icon": "Apple.svg",
       "website": "https://opensource.apple.com"
     },
+    "Dastyar WP": {
+      "cats": [
+        54
+      ],
+      "description": "Dastyar WP - WordPress Assistant plugin is a plugin to increase speed and security",
+      "html": [
+        "<!-- This site is optimized with the Dastyar WP (?:WordPress )?speed plugin v([\\d.]+) -\\;version:\\1"
+      ],
+      "icon": "Dastyar WP.png",
+      "implies": "WordPress",
+      "website": "http://matinbeigi.ir"
+    },
     "DataLife Engine": {
       "cats": [
         1
